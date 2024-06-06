@@ -44,7 +44,6 @@ I'm a passionate software engineer and web developer with expertise in building 
 ### Other Technologies
 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 ### Interests and Hobbies
@@ -77,12 +76,66 @@ I'm a passionate software engineer and web developer with expertise in building 
 ### [Project 1](https://abhishek-prasad-baheliya.github.io/Simon-say-Game-/)
 
 ![Project Image](images/Siman-say-Game.png)
-Simon Says: A game where one person, "Simon," gives commands preceded by "Simon says." Participants must follow these commands, but if Simon doesn't say "Simon says" and someone follows the command, they're out. Last person standing wins. Tests listening and memory skills.
+**Simon Says:** A game where one person, "Simon," gives commands preceded by "Simon says." Participants must follow these commands, but if Simon doesn't say "Simon says" and someone follows the command, they're out. Last person standing wins. Tests listening and memory skills.
 
-### [Project 2](https://abhishek-prasad-baheliya.github.io/Admin-Dashboard/)
+### [Project 2](https://abhishek-prasad-baheliya.github.io/Tic-Tac-Toe-Game/)
+
+![Project Image](images/Tic-tac-toe.png)
+This project is a classic Tic Tac Toe game built with HTML, CSS, and JavaScript. Players take turns placing X's and O's on a 3x3 grid, aiming to get three in a row, column, or diagonal. The game updates dynamically to show whose turn it is and announces the winner or a draw. It includes a restart button for starting a new game.
+
+### [Project 3](https://abhishek-prasad-baheliya.github.io/Spotify-clone/)
+
+![Project Image](images/spotify.png)
+This project is a clone of the popular music streaming service Spotify. It replicates key features such as user authentication, browsing and searching for music, creating playlists, and playing songs. Users can discover new music, save their favorite tracks, and create personalized playlists. The interface mimics Spotify's design, providing a familiar experience for users.
+
+### [Project 4](https://abhishek-prasad-baheliya.github.io/Library-App/)
+
+![Project Image](images/Library.png)
+Welcome to the Small Library App! This application is designed to help manage a small library's collection, including books, authors, and users. Whether you're a librarian looking to keep track of your inventory or a book lover wanting to organize your personal library, this app has got you covered
+
+### [Project 5](https://abhishek-prasad-baheliya.github.io/Photography-Dashboard/)
+
+![Project Image](images/Photography.png)
+The Photography Dashboard project is a web application designed to streamline various aspects of a photographer's workflow. It provides a centralized platform for photographers to manage their portfolio, schedule appointments, track client communications, and handle administrative tasks. Key features include an intuitive interface for uploading, organizing, and showcasing photography portfolios, a calendar for scheduling shoots and appointments, client management tools for storing contact information and project details, and analytics to track performance and trends.
+
+### [Project 6](https://abhishek-prasad-baheliya.github.io/Sign-up-Form/)
+
+![Project Image](images/sign-up-form.png)
+The Sign-up Form project is a web application component that allows users to register for a service or platform. It provides fields for users to input their information, such as name, email address, password, and any additional required details. The form typically includes validation to ensure that the entered information meets specified criteria, such as valid email format or password strength. Upon submission, the data is processed and stored securely, and the user may receive a confirmation message or email. The Sign-up Form simplifies the user registration process, making it easy for users to create accounts and access the platform's features.
+
+### [Project 7](https://abhishek-prasad-baheliya.github.io/Admin-Dashboard/)
 
 ![Project Image](images/Admin-Dashboard.png)
 The Admin Dashboard is a comprehensive and intuitive platform designed to manage and oversee various projects and tasks efficiently. It provides a user-friendly interface with easy navigation, allowing users to access and manage their profile, messages, project history, tasks, communities, and settings seamlessly. The dashboard also features an announcement section to keep users informed about important updates and site maintenance activities.
+
+### [Project 8](https://abhishek-prasad-baheliya.github.io/Profile-card/)
+
+![Project Image](images/Profilecard.png)
+The Profile Card project is a component used to display a user's profile information in a visually appealing and concise format. It typically includes the user's name, profile picture, bio, and social media links. The card may also feature additional details such as contact information or a brief summary of the user's interests or achievements. The Profile Card enhances user engagement by providing a quick snapshot of key information about the individual or organization.
+
+### [Project 9](https://abhishek-prasad-baheliya.github.io/Rock-Paper-Scissors/)
+
+![Project Image](images/Rock.png)
+This is a simple implementation of the classic game "Rock, Paper, Scissors" using JavaScript. The game runs in the console, allowing you to play against the computer.
+
+### [Project 10](https://abhishek-prasad-baheliya.github.io/Etch-a-Sketch/)
+
+![Project Image](images/sketch.png)
+This project is a digital rendition of the classic Etch-a-Sketch toy, built using HTML, CSS, and JavaScript. With this web-based version, users can create intricate drawings by moving a cursor around the screen, simulating the knobs of the physical toy.
+
+### [Project 11](https://abhishek-prasad-baheliya.github.io/Landing-page/)
+
+![Project Image](images/Landing-page.png)
+A minimalist landing page crafted purely with HTML and CSS. Clean design, fast loading, and fully responsive layout. Ideal for showcasing products, services, or personal portfolios without the need for JavaScript.
+
+### [Project 12](https://abhishek-prasad-baheliya.github.io/Calculator-Pro/)
+
+![Project Image](images/calc.png)
+Welcome to Calculator Pro, your sleek and efficient solution for all your basic arithmetic needs! Built with HTML, CSS, and JavaScript, this calculator isn't just functional—it's a joy to use.
+
+### [Project 13](https://abhishek-prasad-baheliya.github.io/Tailwind-css-projects/)
+
+![Project Image](images/tailwind.png)
 
 ### Open Source Contributions
 
@@ -115,5 +168,5 @@ The Admin Dashboard is a comprehensive and intuitive platform designed to manage
   <i>“The only way to do great work is to love what you do.” – Steve Jobs</i>
 </p>
 <p align="center">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ABHISHEK-PRASAD-BAHELIYA.ABHISHEK-PRASAD-BAHELIYA)
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ABHISHEK-PRASAD-BAHELIYA.A)
 </p>
