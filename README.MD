@@ -27,6 +27,7 @@ I'm a passionate software engineer and web developer with expertise in building 
 #### Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -137,6 +138,10 @@ Welcome to Calculator Pro, your sleek and efficient solution for all your basic 
 
 ![Project Image](images/tailwind.png)
 
+### [Project 14](https://abhishek-prasad-baheliya.github.io/Drum-kit/)
+
+![Project Image](images/Drumkit.png)
+
 ### Open Source Contributions
 
 - [Contribution 1](https://github.com/repo/project): Brief description of the contribution.
@@ -168,5 +173,5 @@ Welcome to Calculator Pro, your sleek and efficient solution for all your basic 
   <i>“The only way to do great work is to love what you do.” – Steve Jobs</i>
 </p>
 <p align="center">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ABHISHEK-PRASAD-BAHELIYA.A)
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ABHISHEK-PRASAD-BAHELIYA)
 </p>
