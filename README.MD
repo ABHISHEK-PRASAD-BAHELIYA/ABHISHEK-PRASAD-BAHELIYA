@@ -142,6 +142,10 @@ Welcome to Calculator Pro, your sleek and efficient solution for all your basic 
 
 ![Project Image](images/Drumkit.png)
 
+### [Project 14](https://abhishek-prasad-baheliya.github.io/Analog-clock/)
+
+![Project Image](images/Analogclock.png)
+
 ### Open Source Contributions
 
 - [Contribution 1](https://github.com/repo/project): Brief description of the contribution.
@@ -173,5 +177,5 @@ Welcome to Calculator Pro, your sleek and efficient solution for all your basic 
   <i>“The only way to do great work is to love what you do.” – Steve Jobs</i>
 </p>
 <p align="center">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ABHISHEK-PRASAD-BAHELIYA)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ABHISHEK-PRASAD-BAHELIYA" alt="Visitor Count">
 </p>
